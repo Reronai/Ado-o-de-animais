@@ -1,35 +1,51 @@
-# :checkered_flag: NOME DO PROJETO
+# :checkered_flag: Sistema de Adoção de Animais
 
-Breve descrição do que o seu projeto faz.
+Uma plataforma dedicada a facilitar o processo de adoção responsável, conectando protetores e adotantes em potencial.
 
 ## :technologist: Membros da equipe
 
-Matrícula, nome e curso dos participantes.
+555630, Miguel Barbosa dos Santos Bisneto -Redes de Computadores
 
 ## :bulb: Objetivo Geral
-Descrever o objetivo de geral do projeto
+
+Promover a adoção responsável de animais, oferecendo uma plataforma acessível e organizada para conectar adotantes e protetores.
 
 ## :eyes: Público-Alvo
-Público-alvo do projeto
+
+Adotantes em potencial, doadores independentes e qualquer pessoa interessada em encontrar um lar para animais resgatados.
 
 ## :star2: Impacto Esperado
-Descreva o impacto esperado do projeto em relação ao público alvo
+
+Reduzir o número de animais abandonados, facilitar o processo de adoção responsável e sensibilizar a sociedade sobre a importância do bem-estar animal.
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-Informe aqui os tipos de usuário que irão interagir com a aplicação. Ex: administrador, locador, locatario, usuário não logado.
+- **Administrador:** Gerencia a plataforma, incluindo o cadastro de usuários e supervisão do sistema.  
+- **Usuários logados (adotantes):** Buscam por animais disponíveis, demonstram interesse e realizam o processo de adoção.  
+- **Usuários logados (doadores):** Cadastram os animais no site colocando as características (raça, espécie, cor, etc) além do contato para comunicação
+- **Usuários não logados:** Podem visualizar informações básicas sobre animais e ONGs, mas precisam se registrar para interações mais específicas.
 
-> Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
+## :triangular_flag_on_post: Principais funcionalidades da aplicação
 
-## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
+- **Funcionalidades acessíveis a todos os usuários:**  
+  - Visualizar lista de animais disponíveis para adoção com filtros por espécie, porte e localização.
+    
+- **Funcionalidades restritas a usuários logados (doadores e adotantes):**  
+  - Cadastro de novos animais disponíveis para adoção.  
+  - Registro de interesse na adoção de um animal específico (Adotantes).  
+  - Histórico e acompanhamento de adoções realizadas.
+  - Cadastro de contato para conversas sobre a adoção 
 
-Descreve ou liste brevemente as principais funcionalidades da aplicação que será desenvolvida. Destaque a funcionalidades que serão acessévies a todos os usuários e aquelas restriras a usuários logados.
+- **Funcionalidades administrativas:**  
+  - Gerenciamento de usuários e entidades cadastradas.  
+  - Controle de acessos e relatórios sobre adoções realizadas.
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
-Liste as principais entidades do sistema.
-
-
+- **Usuários** 
+- **Animais** 
+- **Adoções** 
+- **Administrador**
 ----
 
 :warning::warning::warning: As informações a seguir devem ser enviadas juntamente com a versão final do projeto. :warning::warning::warning:
